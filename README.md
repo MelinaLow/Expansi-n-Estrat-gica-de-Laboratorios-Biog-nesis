@@ -1,5 +1,4 @@
-# Expansión Estratégica de Laboratorios Biogénesis
-Exploración, limpieza y visualización de datos sobre COVID-19 para evaluar oportunidades de expansión de Biogénesis en América Latina.
+
 # 🚀 Expansión Estratégica de Laboratorios Biogénesis
 
 Este proyecto se desarrolló como parte del módulo de Python del bootcamp de análisis de datos. Su objetivo fue analizar datos sanitarios y sociodemográficos para proponer una expansión estratégica de laboratorios de la empresa Biogénesis en América Latina.
